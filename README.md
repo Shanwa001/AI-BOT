@@ -5,3 +5,4 @@ and the response is displayed in the chat interface. The model is configured wit
 meaning it is **not a Retrieval-Augmented Generation (RAG)** system. It purely depends on the LLM's own knowledge and prompt engineering. To upgrade this into a PDF-based RAG app, 
 it would need additional components like PDF text extraction, embedding generation, vector storage, and similarity-based context retrieval before querying the LLM. As it stands, 
 the project serves as a clean and minimal example of a chatbot using LLaMA 3 via Groq.
+[image](https://github.com/user-attachments/assets/a09d4169-1a39-41b4-80dc-2c06fe168ede)
